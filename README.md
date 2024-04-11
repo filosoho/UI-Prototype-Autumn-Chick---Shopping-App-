@@ -1,7 +1,7 @@
 # UI/Prototype: Autumn-Chick -Shopping-App
 This is a simple prototype of a shopping app made with Figma.
 
-Find the prototype here: [Figma](https://www.figma.com/proto/K8mCTeL9g5108YLLH2XmYj/Autumn-Chick?node-id=1-754&starting-point-node-id=1%3A754&t=CarrHruay4Rp1Jab-1&mode=design)
+Find the prototype here: [Figma](https://www.figma.com/proto/pi7lBTXrbKWaAbbgNLF8Rw/Autumn-Chick---Prototype?type=design&node-id=1-754&t=zo52pKhQZx3de15S-1&scaling=scale-down&page-id=1%3A2&starting-point-node-id=1%3A754&mode=design)
 
 # Contents
 
